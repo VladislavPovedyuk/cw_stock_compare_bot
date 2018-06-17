@@ -1,0 +1,1 @@
+web: java -jar target/CwStockCompareBot-jar-with-dependencies.jar
